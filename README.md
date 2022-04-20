@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there 👋
+I'm Julián Moreyra web developer. 
 
-<!--
-**Jmoreyra93/Jmoreyra93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🌱 I'm currently learning python libraries: Django and Flask
+- 👯 I am looking to collaborate on projects to be able to continue learning programming
+- 🤔 I am looking for help with people who speak English in order to continue perfecting my English
+- 💬 Ask me about technologies how : Javascript, Node JS, Python
+- 📫 How to reach me: julianmoreyra.192@gmail.com 
+
+
+
