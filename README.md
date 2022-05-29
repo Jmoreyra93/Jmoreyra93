@@ -6,9 +6,9 @@
 
 
 ## 💻 Projects
-* [Ecommerce](https://backend-ecommerce22.herokuapp.com/)
+* [Ecommerce]([https://backend-ecommerce22.herokuapp.com/](https://ecommerce-2022jlm.herokuapp.com/))
 * [Web Scraping](https://github.com/Jmoreyra93/WebScarping_Selenium)
-* [Portfolio] in process
+* [Portfolio](https://jmoreyra93.github.io/)
 
 
 ## 👋 Reach out to me 
@@ -17,7 +17,7 @@
 - 🤔 I am looking for help with people who speak English in order to continue perfecting my English
 - 💬 Ask me about technologies how : Javascript, Node JS, Python
 - 📫 How to reach me: julianmoreyra.192@gmail.com 
-- 🖼️ Portfolio site: [Portfolio] in process
+- 🖼️ Portfolio site: [Portfolio](https://jmoreyra93.github.io/)
 
 
 
