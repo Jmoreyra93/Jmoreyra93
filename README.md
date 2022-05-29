@@ -6,7 +6,7 @@
 
 
 ## 💻 Projects
-* [Ecommerce]([https://backend-ecommerce22.herokuapp.com/](https://ecommerce-2022jlm.herokuapp.com/))
+* [Ecommerce](https://backend-ecommerce22.herokuapp.com/](https://ecommerce-2022jlm.herokuapp.com/)
 * [Web Scraping](https://github.com/Jmoreyra93/WebScarping_Selenium)
 * [Portfolio](https://jmoreyra93.github.io/)
 
