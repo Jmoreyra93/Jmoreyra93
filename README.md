@@ -8,8 +8,8 @@
 ## 💻 Projects
 * [Ecommerce](https://ecommerce-2022jlm.herokuapp.com/)
 * [Web Scraping](https://github.com/Jmoreyra93/WebScarping_Selenium)
-* [Web Django](https://github.com/Jmoreyra93/WebScarping_Selenium)
-* [Portfolio](https://github.com/Jmoreyra93/web_django)
+* [Web Django](https://github.com/Jmoreyra93/web_django)
+* [Portfolio]([https://github.com/Jmoreyra93/](https://jmoreyra93.github.io/))
 
 
 ## 👋 Reach out to me 
